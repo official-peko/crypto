@@ -1,0 +1,10 @@
+{
+    "description": "Library for cryptography in PekoScript",
+    "contributor": {
+        "organization": "Peko"
+    },
+    "versions": [
+        "v0.0.1"
+    ],
+    "dependencies": []
+}
