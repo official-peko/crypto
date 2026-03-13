@@ -1,11 +1,3 @@
-/*********************************************************************
-* Filename:   md5.h
-* Author:     Brad Conte (brad AT bradconte.com)
-* Copyright:
-* Disclaimer: This code is presented "as is" without any guarantees.
-* Details:    Defines the API for the corresponding MD5 implementation.
-*********************************************************************/
-
 #ifndef MD5_H
 #define MD5_H
 

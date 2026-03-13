@@ -1,11 +1,3 @@
-/*********************************************************************
-* Filename:   base64.h
-* Author:     Brad Conte (brad AT bradconte.com)
-* Copyright:
-* Disclaimer: This code is presented "as is" without any guarantees.
-* Details:    Defines the API for the corresponding Base64 implementation.
-*********************************************************************/
-
 #ifndef BASE64_H
 #define BASE64_H
 

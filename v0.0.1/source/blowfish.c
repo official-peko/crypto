@@ -1,14 +1,3 @@
-/*********************************************************************
-* Filename:   blowfish.c
-* Author:     Brad Conte (brad AT bradconte.com)
-* Copyright:
-* Disclaimer: This code is presented "as is" without any guarantees.
-* Details:    Implementation of the Blowfish encryption algorithm.
-              Modes of operation (such as CBC) are not included.
-              Algorithm specification can be found here:
-               * http://www.schneier.com/blowfish.html
-*********************************************************************/
-
 /*************************** HEADER FILES ***************************/
 #include <stdlib.h>
 #include <memory.h>

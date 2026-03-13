@@ -1,11 +1,3 @@
-/*********************************************************************
-* Filename:   md2.h
-* Author:     Brad Conte (brad AT bradconte.com)
-* Copyright:
-* Disclaimer: This code is presented "as is" without any guarantees.
-* Details:    Defines the API for the corresponding MD2 implementation.
-*********************************************************************/
-
 #ifndef MD2_H
 #define MD2_H
 

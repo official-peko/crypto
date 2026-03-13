@@ -1,20 +1,3 @@
-/*********************************************************************
-* Filename:   aes.c
-* Author:     Brad Conte (brad AT bradconte.com)
-* Copyright:
-* Disclaimer: This code is presented "as is" without any guarantees.
-* Details:    This code is the implementation of the AES algorithm and
-              the CTR, CBC, and CCM modes of operation it can be used in.
-               AES is, specified by the NIST in in publication FIPS PUB 197,
-              availible at:
-               * http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf .
-              The CBC and CTR modes of operation are specified by
-              NIST SP 800-38 A, available at:
-               * http://csrc.nist.gov/publications/nistpubs/800-38a/sp800-38a.pdf .
-              The CCM mode of operation is specified by NIST SP80-38 C, available at:
-               * http://csrc.nist.gov/publications/nistpubs/800-38C/SP800-38C_updated-July20_2007.pdf
-*********************************************************************/
-
 /*************************** HEADER FILES ***************************/
 #include <stdlib.h>
 #include <memory.h>

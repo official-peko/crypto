@@ -1,11 +1,3 @@
-/*********************************************************************
-* Filename:   base64.c
-* Author:     Brad Conte (brad AT bradconte.com)
-* Copyright:
-* Disclaimer: This code is presented "as is" without any guarantees.
-* Details:    Implementation of the Base64 encoding algorithm.
-*********************************************************************/
-
 /*************************** HEADER FILES ***************************/
 #include <stdlib.h>
 #include "base64.h"

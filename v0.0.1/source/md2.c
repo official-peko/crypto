@@ -1,14 +1,3 @@
-/*********************************************************************
-* Filename:   md2.c
-* Author:     Brad Conte (brad AT bradconte.com)
-* Copyright:
-* Disclaimer: This code is presented "as is" without any guarantees.
-* Details:    Implementation of the MD2 hashing algorithm.
-				  Algorithm specification can be found here:
-				   * http://tools.ietf.org/html/rfc1319 .
-              Input is  little endian byte order.
-*********************************************************************/
-
 /*************************** HEADER FILES ***************************/
 #include <stdlib.h>
 #include <memory.h>
